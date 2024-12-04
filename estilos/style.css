@@ -11,7 +11,7 @@ Lilaz: #5f2c82
     box-sizing: border-box;
 }
 body, html{
-    background-color:  #49a09d;
+    background-color:  #5f2c82;
     height: 100vh;
     width: 100vw;
 }
@@ -36,7 +36,7 @@ section#login{
 
 section#login > div#imagem{
     display: block;
-    background:#5f2c82 url(../imagens/pexels-victor-moragriega-1390556186-29570574.jpg) ;
+    background:#5f2c82 url(../imagens/pexels-scottwebb-305816.jpg) ;
     height: 200px;
     background-position: left;
     background-size: cover;
